@@ -1,0 +1,24 @@
+Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Tab Button 1 Press
+OutputSigType1=Digital
+InputCue2=Tab Button 1 Select
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Tab Button 2 Press
+OutputSigType3=Digital
+InputCue4=Tab Button 2 Select
+InputSigType4=Digital
+OutputCue4=[~UNUSED3~]
+OutputSigType4=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=12
+CedH=12
+SmartObjId=31d
+]

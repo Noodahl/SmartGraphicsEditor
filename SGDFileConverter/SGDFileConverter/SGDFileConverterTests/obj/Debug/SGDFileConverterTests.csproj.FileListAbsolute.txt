@@ -1,0 +1,16 @@
+C:\_Work\SIMPL# Development\SGDFileConverter\SGDFileConverter\SGDFileConverterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\_Work\SIMPL# Development\SGDFileConverter\SGDFileConverter\SGDFileConverterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\_Work\SIMPL# Development\SGDFileConverter\SGDFileConverter\SGDFileConverterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\_Work\SIMPL# Development\SGDFileConverter\SGDFileConverter\SGDFileConverterTests\bin\Debug\SGDFileConverterTests.dll
+C:\_Work\SIMPL# Development\SGDFileConverter\SGDFileConverter\SGDFileConverterTests\bin\Debug\SGDFileConverterTests.pdb
+C:\_Work\SIMPL# Development\SGDFileConverter\SGDFileConverter\SGDFileConverterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\_Work\SIMPL# Development\SGDFileConverter\SGDFileConverter\SGDFileConverterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\_Work\SIMPL# Development\SGDFileConverter\SGDFileConverter\SGDFileConverterTests\bin\Debug\SGDFileConverter.exe
+C:\_Work\SIMPL# Development\SGDFileConverter\SGDFileConverter\SGDFileConverterTests\bin\Debug\SGDFileConverter.pdb
+C:\_Work\SIMPL# Development\SGDFileConverter\SGDFileConverter\SGDFileConverterTests\bin\Debug\SGDFileConverter.exe.config
+C:\_Work\SIMPL# Development\SGDFileConverter\SGDFileConverter\SGDFileConverterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\_Work\SIMPL# Development\SGDFileConverter\SGDFileConverter\SGDFileConverterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\_Work\SIMPL# Development\SGDFileConverter\SGDFileConverter\SGDFileConverterTests\obj\Debug\SGDFileConverterTests.csprojResolveAssemblyReference.cache
+C:\_Work\SIMPL# Development\SGDFileConverter\SGDFileConverter\SGDFileConverterTests\obj\Debug\SGDFileConverterTests.csproj.CoreCompileInputs.cache
+C:\_Work\SIMPL# Development\SGDFileConverter\SGDFileConverter\SGDFileConverterTests\obj\Debug\SGDFileConverterTests.dll
+C:\_Work\SIMPL# Development\SGDFileConverter\SGDFileConverter\SGDFileConverterTests\obj\Debug\SGDFileConverterTests.pdb

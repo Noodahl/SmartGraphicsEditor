@@ -1,0 +1,1605 @@
+[
+ObjTp=FSgntr
+Sgntr=SGD
+RelVrs=3
+VTProeVer=6.2.00
+Schema=1
+CRCGUID=AFD6FB33-7763-4C7F-9D97-0CF512C0E210
+]
+;================================================================================
+[
+ObjTp=Hd
+ProjectFile=CTI-P101 Student 1542_rev1.1.vtp
+VtpGuid=C83FF4EF-A96F-4E28-A5C5-4311E560AB33
+]
+
+[
+ObjTp=Symbol
+Name=CTI-P101 Student 1542_rev1.1_03. Main_Select Activity.ced
+Hint=Select Activity (Smart Object ID=25)
+Code=1
+SGControlType=Vertical Tab Button
+SGControlName=Select Activity
+GUID=A7BB5BD1-61CF-4567-AF1E-B2C48C160BD2
+SmplCName=CTI-P101 Student 1542_rev1.1_03. Main_Select Activity.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10074
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=14
+MaxVariableInputs=14
+MinVariableOutputs=14
+MaxVariableOutputs=14
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Tab Button 1 Press
+OutputSigType1=Digital
+InputCue2=pokemon
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Tab Button 2 Press
+OutputSigType3=Digital
+InputCue4=Tab Button 2 Select
+InputSigType4=Digital
+OutputCue4=[~UNUSED3~]
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=Tab Button 3 Press
+OutputSigType5=Digital
+InputCue6=Tab Button 3 Select
+InputSigType6=Digital
+OutputCue6=[~UNUSED3~]
+OutputSigType6=Digital
+InputCue7=[~UNUSED3~]
+InputSigType7=Digital
+OutputCue7=Tab Button 4 Press
+OutputSigType7=Digital
+InputCue8=Tab Button 4 Select
+InputSigType8=Digital
+OutputCue8=[~UNUSED3~]
+OutputSigType8=Digital
+InputCue9=[~UNUSED3~]
+InputSigType9=Digital
+OutputCue9=Tab Button 5 Press
+OutputSigType9=Digital
+InputCue10=Tab Button 5 Select
+InputSigType10=Digital
+OutputCue10=[~UNUSED3~]
+OutputSigType10=Digital
+InputCue11=[~UNUSED3~]
+InputSigType11=Digital
+OutputCue11=Tab Button 6 Press
+OutputSigType11=Digital
+InputCue12=Tab Button 6 Select
+InputSigType12=Digital
+OutputCue12=[~UNUSED3~]
+OutputSigType12=Digital
+InputCue13=[~UNUSED3~]
+InputSigType13=Digital
+OutputCue13=Tab Button 7 Press
+OutputSigType13=Digital
+InputCue14=Tab Button 7 Select
+InputSigType14=Digital
+OutputCue14=[~UNUSED3~]
+OutputSigType14=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=1
+CedH=1
+SmartObjId=25d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=1
+Tp=1
+HD=TRUE
+DV=25d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=1
+Name=CTI-P101 Student 1542_rev1.1_03. Main_Select Activity.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=CTI-P101 Student 1542_rev1.1_03. Main_Screen Control.ced
+Hint=Screen Control (Smart Object ID=26)
+Code=2
+SGControlType=Vertical Tab Button
+SGControlName=Screen Control
+GUID=F9FE1AED-4978-4B75-A62B-0CE8AFF88125
+SmplCName=CTI-P101 Student 1542_rev1.1_03. Main_Screen Control.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10074
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=4
+MaxVariableInputs=4
+MinVariableOutputs=4
+MaxVariableOutputs=4
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Tab Button 1 Press
+OutputSigType1=Digital
+InputCue2=Tab Button 1 Select
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Tab Button 2 Press
+OutputSigType3=Digital
+InputCue4=Tab Button 2 Select
+InputSigType4=Digital
+OutputCue4=[~UNUSED3~]
+OutputSigType4=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=2
+CedH=2
+SmartObjId=26d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=2
+Tp=1
+HD=TRUE
+DV=26d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=2
+Name=CTI-P101 Student 1542_rev1.1_03. Main_Screen Control.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=CTI-P101 Student 1542_rev1.1_03. Main_Lights Btns.ced
+Hint=Lights Btns (Smart Object ID=27)
+Code=3
+SGControlType=Vertical Tab Button
+SGControlName=Lights Btns
+GUID=B6C265A1-4158-4D18-A637-CFEE175908DA
+SmplCName=CTI-P101 Student 1542_rev1.1_03. Main_Lights Btns.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10074
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=12
+MaxVariableInputs=12
+MinVariableOutputs=12
+MaxVariableOutputs=12
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Tab Button 1 Press
+OutputSigType1=Digital
+InputCue2=Tab Button 1 Select
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Tab Button 2 Press
+OutputSigType3=Digital
+InputCue4=Tab Button 2 Select
+InputSigType4=Digital
+OutputCue4=[~UNUSED3~]
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=Tab Button 3 Press
+OutputSigType5=Digital
+InputCue6=Tab Button 3 Select
+InputSigType6=Digital
+OutputCue6=[~UNUSED3~]
+OutputSigType6=Digital
+InputCue7=[~UNUSED3~]
+InputSigType7=Digital
+OutputCue7=Tab Button 4 Press
+OutputSigType7=Digital
+InputCue8=Tab Button 4 Select
+InputSigType8=Digital
+OutputCue8=[~UNUSED3~]
+OutputSigType8=Digital
+InputCue9=[~UNUSED3~]
+InputSigType9=Digital
+OutputCue9=Tab Button 5 Press
+OutputSigType9=Digital
+InputCue10=Tab Button 5 Select
+InputSigType10=Digital
+OutputCue10=[~UNUSED3~]
+OutputSigType10=Digital
+InputCue11=[~UNUSED3~]
+InputSigType11=Digital
+OutputCue11=Tab Button 6 Press
+OutputSigType11=Digital
+InputCue12=Tab Button 6 Select
+InputSigType12=Digital
+OutputCue12=[~UNUSED3~]
+OutputSigType12=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=3
+CedH=3
+SmartObjId=27d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=3
+Tp=1
+HD=TRUE
+DV=27d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=3
+Name=CTI-P101 Student 1542_rev1.1_03. Main_Lights Btns.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=CTI-P101 Student 1542_rev1.1_03. Main_Volume Btns.ced
+Hint=Volume Btns (Smart Object ID=28)
+Code=4
+SGControlType=Vertical Tab Button
+SGControlName=Volume Btns
+GUID=A62777BD-AB12-4D90-9A02-2CFD3A776CC5
+SmplCName=CTI-P101 Student 1542_rev1.1_03. Main_Volume Btns.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10074
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=6
+MaxVariableInputs=6
+MinVariableOutputs=6
+MaxVariableOutputs=6
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Tab Button 1 Press
+OutputSigType1=Digital
+InputCue2=Tab Button 1 Select
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Tab Button 2 Press
+OutputSigType3=Digital
+InputCue4=Tab Button 2 Select
+InputSigType4=Digital
+OutputCue4=[~UNUSED3~]
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=Tab Button 3 Press
+OutputSigType5=Digital
+InputCue6=Tab Button 3 Select
+InputSigType6=Digital
+OutputCue6=[~UNUSED3~]
+OutputSigType6=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=4
+CedH=4
+SmartObjId=28d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=4
+Tp=1
+HD=TRUE
+DV=28d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=4
+Name=CTI-P101 Student 1542_rev1.1_03. Main_Volume Btns.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=CTI-P101 Student 1542_rev1.1_03. Main_Volume Presets.ced
+Hint=Volume Presets (Smart Object ID=29)
+Code=5
+SGControlType=Vertical Tab Button
+SGControlName=Volume Presets
+GUID=6CDA48E9-3346-4A8D-92FB-72524BC897AA
+SmplCName=CTI-P101 Student 1542_rev1.1_03. Main_Volume Presets.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10074
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=6
+MaxVariableInputs=6
+MinVariableOutputs=6
+MaxVariableOutputs=6
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Tab Button 1 Press
+OutputSigType1=Digital
+InputCue2=Tab Button 1 Select
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Tab Button 2 Press
+OutputSigType3=Digital
+InputCue4=Tab Button 2 Select
+InputSigType4=Digital
+OutputCue4=[~UNUSED3~]
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=Tab Button 3 Press
+OutputSigType5=Digital
+InputCue6=Tab Button 3 Select
+InputSigType6=Digital
+OutputCue6=[~UNUSED3~]
+OutputSigType6=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=5
+CedH=5
+SmartObjId=29d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=5
+Tp=1
+HD=TRUE
+DV=29d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=5
+Name=CTI-P101 Student 1542_rev1.1_03. Main_Volume Presets.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=CTI-P101 Student 1542_rev1.1_03.6 Shades_Shades Control.ced
+Hint=Shades Control (Smart Object ID=60)
+Code=6
+SGControlType=Vertical Tab Button
+SGControlName=Shades Control
+GUID=993A669D-C305-4E5C-BC89-9ACE67DF2383
+SmplCName=CTI-P101 Student 1542_rev1.1_03.6 Shades_Shades Control.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10074
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=10
+MaxVariableInputs=10
+MinVariableOutputs=10
+MaxVariableOutputs=10
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Tab Button 1 Press
+OutputSigType1=Digital
+InputCue2=Tab Button 1 Select
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Tab Button 2 Press
+OutputSigType3=Digital
+InputCue4=Tab Button 2 Select
+InputSigType4=Digital
+OutputCue4=[~UNUSED3~]
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=Tab Button 3 Press
+OutputSigType5=Digital
+InputCue6=Tab Button 3 Select
+InputSigType6=Digital
+OutputCue6=[~UNUSED3~]
+OutputSigType6=Digital
+InputCue7=[~UNUSED3~]
+InputSigType7=Digital
+OutputCue7=Tab Button 4 Press
+OutputSigType7=Digital
+InputCue8=Tab Button 4 Select
+InputSigType8=Digital
+OutputCue8=[~UNUSED3~]
+OutputSigType8=Digital
+InputCue9=[~UNUSED3~]
+InputSigType9=Digital
+OutputCue9=Tab Button 5 Press
+OutputSigType9=Digital
+InputCue10=Tab Button 5 Select
+InputSigType10=Digital
+OutputCue10=[~UNUSED3~]
+OutputSigType10=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=6
+CedH=6
+SmartObjId=60d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=6
+Tp=1
+HD=TRUE
+DV=60d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=6
+Name=CTI-P101 Student 1542_rev1.1_03.6 Shades_Shades Control.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=CTI-P101 Student 1542_rev1.1_03.1 Doc Camera_Doc Cam Nav btns.ced
+Hint=Doc Cam Nav btns (Smart Object ID=30)
+Code=7
+SGControlType=DPad
+SGControlName=Doc Cam Nav btns
+GUID=D082DAC0-9A35-4E66-8BEA-BBBBBFAD7A24
+SmplCName=CTI-P101 Student 1542_rev1.1_03.1 Doc Camera_Doc Cam Nav btns.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10015
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=5
+MaxVariableInputs=5
+MinVariableOutputs=5
+MaxVariableOutputs=5
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Up
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=Down
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Left
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=Right
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=Center
+OutputSigType5=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=7
+CedH=7
+SmartObjId=30d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=7
+Tp=1
+HD=TRUE
+DV=30d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=7
+Name=CTI-P101 Student 1542_rev1.1_03.1 Doc Camera_Doc Cam Nav btns.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=CTI-P101 Student 1542_rev1.1_03.1 Doc Camera_Doc Cam Zoom Btns.ced
+Hint=Doc Cam Zoom Btns (Smart Object ID=32)
+Code=8
+SGControlType=Vertical Tab Button
+SGControlName=Doc Cam Zoom Btns
+GUID=C899E62E-E7FF-475A-B2F7-6EBB4D41396A
+SmplCName=CTI-P101 Student 1542_rev1.1_03.1 Doc Camera_Doc Cam Zoom Btns.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10074
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=10
+MaxVariableInputs=10
+MinVariableOutputs=10
+MaxVariableOutputs=10
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Tab Button 1 Press
+OutputSigType1=Digital
+InputCue2=Tab Button 1 Select
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Tab Button 2 Press
+OutputSigType3=Digital
+InputCue4=Tab Button 2 Select
+InputSigType4=Digital
+OutputCue4=[~UNUSED3~]
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=Tab Button 3 Press
+OutputSigType5=Digital
+InputCue6=Tab Button 3 Select
+InputSigType6=Digital
+OutputCue6=[~UNUSED3~]
+OutputSigType6=Digital
+InputCue7=[~UNUSED3~]
+InputSigType7=Digital
+OutputCue7=Tab Button 4 Press
+OutputSigType7=Digital
+InputCue8=Tab Button 4 Select
+InputSigType8=Digital
+OutputCue8=[~UNUSED3~]
+OutputSigType8=Digital
+InputCue9=[~UNUSED3~]
+InputSigType9=Digital
+OutputCue9=Tab Button 5 Press
+OutputSigType9=Digital
+InputCue10=Tab Button 5 Select
+InputSigType10=Digital
+OutputCue10=[~UNUSED3~]
+OutputSigType10=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=8
+CedH=8
+SmartObjId=32d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=8
+Tp=1
+HD=TRUE
+DV=32d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=8
+Name=CTI-P101 Student 1542_rev1.1_03.1 Doc Camera_Doc Cam Zoom Btns.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=CTI-P101 Student 1542_rev1.1_03.1 Doc Camera_Doc Cam Preset Btns.ced
+Hint=Doc Cam Preset Btns (Smart Object ID=35)
+Code=9
+SGControlType=Vertical Tab Button
+SGControlName=Doc Cam Preset Btns
+GUID=B980F444-6543-4413-804B-DC1E70D8E0B9
+SmplCName=CTI-P101 Student 1542_rev1.1_03.1 Doc Camera_Doc Cam Preset Btns.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10074
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=6
+MaxVariableInputs=6
+MinVariableOutputs=6
+MaxVariableOutputs=6
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Tab Button 1 Press
+OutputSigType1=Digital
+InputCue2=Tab Button 1 Select
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Tab Button 2 Press
+OutputSigType3=Digital
+InputCue4=Tab Button 2 Select
+InputSigType4=Digital
+OutputCue4=[~UNUSED3~]
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=Tab Button 3 Press
+OutputSigType5=Digital
+InputCue6=Tab Button 3 Select
+InputSigType6=Digital
+OutputCue6=[~UNUSED3~]
+OutputSigType6=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=9
+CedH=9
+SmartObjId=35d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=9
+Tp=1
+HD=TRUE
+DV=35d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=9
+Name=CTI-P101 Student 1542_rev1.1_03.1 Doc Camera_Doc Cam Preset Btns.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=CTI-P101 Student 1542_rev1.1_03.1 Doc Camera_Doc Cam Light Btns.ced
+Hint=Doc Cam Light Btns (Smart Object ID=34)
+Code=10
+SGControlType=Horizontal Tab Button
+SGControlName=Doc Cam Light Btns
+GUID=A430D7FB-D8EB-4744-9761-FCC1E0384EBE
+SmplCName=CTI-P101 Student 1542_rev1.1_03.1 Doc Camera_Doc Cam Light Btns.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10031
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=4
+MaxVariableInputs=4
+MinVariableOutputs=4
+MaxVariableOutputs=4
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Tab Button 1 Press
+OutputSigType1=Digital
+InputCue2=Tab Button 1 Select
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Tab Button 2 Press
+OutputSigType3=Digital
+InputCue4=Tab Button 2 Select
+InputSigType4=Digital
+OutputCue4=[~UNUSED3~]
+OutputSigType4=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=10
+CedH=10
+SmartObjId=34d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=10
+Tp=1
+HD=TRUE
+DV=34d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=10
+Name=CTI-P101 Student 1542_rev1.1_03.1 Doc Camera_Doc Cam Light Btns.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=CTI-P101 Student 1542_rev1.1_03.1 Doc Camera_Doc Cam Focus btns.ced
+Hint=Doc Cam Focus btns (Smart Object ID=33)
+Code=11
+SGControlType=Horizontal Tab Button
+SGControlName=Doc Cam Focus btns
+GUID=F07C1083-D7C8-473B-9EAD-B871B4458253
+SmplCName=CTI-P101 Student 1542_rev1.1_03.1 Doc Camera_Doc Cam Focus btns.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10031
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=6
+MaxVariableInputs=6
+MinVariableOutputs=6
+MaxVariableOutputs=6
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Tab Button 1 Press
+OutputSigType1=Digital
+InputCue2=Tab Button 1 Select
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Tab Button 2 Press
+OutputSigType3=Digital
+InputCue4=Tab Button 2 Select
+InputSigType4=Digital
+OutputCue4=[~UNUSED3~]
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=Tab Button 3 Press
+OutputSigType5=Digital
+InputCue6=Tab Button 3 Select
+InputSigType6=Digital
+OutputCue6=[~UNUSED3~]
+OutputSigType6=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=11
+CedH=11
+SmartObjId=33d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=11
+Tp=1
+HD=TRUE
+DV=33d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=11
+Name=CTI-P101 Student 1542_rev1.1_03.1 Doc Camera_Doc Cam Focus btns.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=CTI-P101 Student 1542_rev1.1_03.1 Doc Camera_Doc Cam Menu Btns.ced
+Hint=Doc Cam Menu Btns (Smart Object ID=31)
+Code=12
+SGControlType=Horizontal Tab Button
+SGControlName=Doc Cam Menu Btns
+GUID=F74901A4-36D4-4E90-9A17-338AC9C7286D
+SmplCName=CTI-P101 Student 1542_rev1.1_03.1 Doc Camera_Doc Cam Menu Btns.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10031
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=4
+MaxVariableInputs=4
+MinVariableOutputs=4
+MaxVariableOutputs=4
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Tab Button 1 Press
+OutputSigType1=Digital
+InputCue2=Tab Button 1 Select
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Tab Button 2 Press
+OutputSigType3=Digital
+InputCue4=Tab Button 2 Select
+InputSigType4=Digital
+OutputCue4=[~UNUSED3~]
+OutputSigType4=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=12
+CedH=12
+SmartObjId=31d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=12
+Tp=1
+HD=TRUE
+DV=31d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=12
+Name=CTI-P101 Student 1542_rev1.1_03.1 Doc Camera_Doc Cam Menu Btns.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=CTI-P101 Student 1542_rev1.1_03.3 Satellite_Sat DPad.ced
+Hint=Sat DPad (Smart Object ID=40)
+Code=13
+SGControlType=DPad
+SGControlName=Sat DPad
+GUID=29E878C4-E9A8-475F-8853-D1D3C41CF039
+SmplCName=CTI-P101 Student 1542_rev1.1_03.3 Satellite_Sat DPad.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10015
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=5
+MaxVariableInputs=5
+MinVariableOutputs=5
+MaxVariableOutputs=5
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Up
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=Down
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Left
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=Right
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=Center
+OutputSigType5=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=13
+CedH=13
+SmartObjId=40d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=13
+Tp=1
+HD=TRUE
+DV=40d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=13
+Name=CTI-P101 Student 1542_rev1.1_03.3 Satellite_Sat DPad.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=CTI-P101 Student 1542_rev1.1_03.3 Satellite_Sat Keypad.ced
+Hint=Sat Keypad (Smart Object ID=42)
+Code=14
+SGControlType=Simple Keypad
+SGControlName=Sat Keypad
+GUID=4FCA034F-4126-4C1D-B3C5-DE8FE98793F2
+SmplCName=CTI-P101 Student 1542_rev1.1_03.3 Satellite_Sat Keypad.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10061
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=12
+MaxVariableInputs=12
+MinVariableOutputs=12
+MaxVariableOutputs=12
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=1
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=2
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=3
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=4
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=5
+OutputSigType5=Digital
+InputCue6=[~UNUSED3~]
+InputSigType6=Digital
+OutputCue6=6
+OutputSigType6=Digital
+InputCue7=[~UNUSED3~]
+InputSigType7=Digital
+OutputCue7=7
+OutputSigType7=Digital
+InputCue8=[~UNUSED3~]
+InputSigType8=Digital
+OutputCue8=8
+OutputSigType8=Digital
+InputCue9=[~UNUSED3~]
+InputSigType9=Digital
+OutputCue9=9
+OutputSigType9=Digital
+InputCue10=[~UNUSED3~]
+InputSigType10=Digital
+OutputCue10=0
+OutputSigType10=Digital
+InputCue11=[~UNUSED3~]
+InputSigType11=Digital
+OutputCue11=Misc_1
+OutputSigType11=Digital
+InputCue12=[~UNUSED3~]
+InputSigType12=Digital
+OutputCue12=Misc_2
+OutputSigType12=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=14
+CedH=14
+SmartObjId=42d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=14
+Tp=1
+HD=TRUE
+DV=42d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=14
+Name=CTI-P101 Student 1542_rev1.1_03.3 Satellite_Sat Keypad.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=CTI-P101 Student 1542_rev1.1_03.3 Satellite_Sat Presets.ced
+Hint=Sat Presets (Smart Object ID=41)
+Code=15
+SGControlType=Icon List Vertical
+SGControlName=Sat Presets
+GUID=78D89396-9667-4F36-A877-0775D13C774F
+SmplCName=CTI-P101 Student 1542_rev1.1_03.3 Satellite_Sat Presets.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10033
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=10
+MaxVariableInputs=10
+MinVariableOutputs=10
+MaxVariableOutputs=10
+NumFixedParams=1
+MinVariableInputsList2=6
+MaxVariableInputsList2=6
+MinVariableOutputsList2=6
+MaxVariableOutputsList2=6
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Item 1 Pressed
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=Item 2 Pressed
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Item 3 Pressed
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=Item 4 Pressed
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=Item 5 Pressed
+OutputSigType5=Digital
+InputCue6=[~UNUSED3~]
+InputSigType6=Digital
+OutputCue6=Item 6 Pressed
+OutputSigType6=Digital
+InputCue7=[~UNUSED3~]
+InputSigType7=Digital
+OutputCue7=Item 7 Pressed
+OutputSigType7=Digital
+InputCue8=[~UNUSED3~]
+InputSigType8=Digital
+OutputCue8=Item 8 Pressed
+OutputSigType8=Digital
+InputCue9=[~UNUSED3~]
+InputSigType9=Digital
+OutputCue9=Item 9 Pressed
+OutputSigType9=Digital
+InputCue10=[~UNUSED3~]
+InputSigType10=Digital
+OutputCue10=Item 10 Pressed
+OutputSigType10=Digital
+InputList2Cue1=Select Item
+InputList2SigType1=Analog
+OutputList2Cue1=[~UNUSED3~]
+OutputList2SigType1=Analog
+InputList2Cue2=Deselect Item
+InputList2SigType2=Analog
+OutputList2Cue2=[~UNUSED3~]
+OutputList2SigType2=Analog
+InputList2Cue3=Scroll Item
+InputList2SigType3=Analog
+OutputList2Cue3=[~UNUSED3~]
+OutputList2SigType3=Analog
+InputList2Cue4=[~UNUSED3~]
+InputList2SigType4=Analog
+OutputList2Cue4=Item Clicked
+OutputList2SigType4=Analog
+InputList2Cue5=[~UNUSED3~]
+InputList2SigType5=Analog
+OutputList2Cue5=Item Held
+OutputList2SigType5=Analog
+InputList2Cue6=Set Num of Items
+InputList2SigType6=Analog
+OutputList2Cue6=[~UNUSED3~]
+OutputList2SigType6=Analog
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=15
+CedH=15
+SmartObjId=41d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=15
+Tp=1
+HD=TRUE
+DV=41d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=15
+Name=CTI-P101 Student 1542_rev1.1_03.3 Satellite_Sat Presets.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=CTI-P101 Student 1542_rev1.1_03.4 Blu Ray_BluRay DPad.ced
+Hint=BluRay DPad (Smart Object ID=50)
+Code=16
+SGControlType=DPad
+SGControlName=BluRay DPad
+GUID=8DA37C37-8E2D-4AA5-91C1-FD66FE6301FD
+SmplCName=CTI-P101 Student 1542_rev1.1_03.4 Blu Ray_BluRay DPad.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10015
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=5
+MaxVariableInputs=5
+MinVariableOutputs=5
+MaxVariableOutputs=5
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Up
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=Down
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Left
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=Right
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=Center
+OutputSigType5=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=16
+CedH=16
+SmartObjId=50d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=16
+Tp=1
+HD=TRUE
+DV=50d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=16
+Name=CTI-P101 Student 1542_rev1.1_03.4 Blu Ray_BluRay DPad.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=CTI-P101 Student 1542_rev1.1_03.4 Blu Ray_Blu Ray Transports 1.ced
+Hint=Blu Ray Transports 1 (Smart Object ID=51)
+Code=17
+SGControlType=Horizontal Tab Button
+SGControlName=Blu Ray Transports 1
+GUID=7036CEE2-BAC3-41E5-B7FC-0FD3E08B0E07
+SmplCName=CTI-P101 Student 1542_rev1.1_03.4 Blu Ray_Blu Ray Transports 1.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10031
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=8
+MaxVariableInputs=8
+MinVariableOutputs=8
+MaxVariableOutputs=8
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Tab Button 1 Press
+OutputSigType1=Digital
+InputCue2=Tab Button 1 Select
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Tab Button 2 Press
+OutputSigType3=Digital
+InputCue4=Tab Button 2 Select
+InputSigType4=Digital
+OutputCue4=[~UNUSED3~]
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=Tab Button 3 Press
+OutputSigType5=Digital
+InputCue6=Tab Button 3 Select
+InputSigType6=Digital
+OutputCue6=[~UNUSED3~]
+OutputSigType6=Digital
+InputCue7=[~UNUSED3~]
+InputSigType7=Digital
+OutputCue7=Tab Button 4 Press
+OutputSigType7=Digital
+InputCue8=Tab Button 4 Select
+InputSigType8=Digital
+OutputCue8=[~UNUSED3~]
+OutputSigType8=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=17
+CedH=17
+SmartObjId=51d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=17
+Tp=1
+HD=TRUE
+DV=51d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=17
+Name=CTI-P101 Student 1542_rev1.1_03.4 Blu Ray_Blu Ray Transports 1.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=CTI-P101 Student 1542_rev1.1_03.4 Blu Ray_Blu Ray Transports 2.ced
+Hint=Blu Ray Transports 2 (Smart Object ID=52)
+Code=18
+SGControlType=Horizontal Tab Button
+SGControlName=Blu Ray Transports 2
+GUID=A3AF77A2-6134-4A1C-9A49-884BCBAB67E3
+SmplCName=CTI-P101 Student 1542_rev1.1_03.4 Blu Ray_Blu Ray Transports 2.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10031
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=8
+MaxVariableInputs=8
+MinVariableOutputs=8
+MaxVariableOutputs=8
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Tab Button 1 Press
+OutputSigType1=Digital
+InputCue2=Tab Button 1 Select
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Tab Button 2 Press
+OutputSigType3=Digital
+InputCue4=Tab Button 2 Select
+InputSigType4=Digital
+OutputCue4=[~UNUSED3~]
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=Tab Button 3 Press
+OutputSigType5=Digital
+InputCue6=Tab Button 3 Select
+InputSigType6=Digital
+OutputCue6=[~UNUSED3~]
+OutputSigType6=Digital
+InputCue7=[~UNUSED3~]
+InputSigType7=Digital
+OutputCue7=Tab Button 4 Press
+OutputSigType7=Digital
+InputCue8=Tab Button 4 Select
+InputSigType8=Digital
+OutputCue8=[~UNUSED3~]
+OutputSigType8=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=18
+CedH=18
+SmartObjId=52d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=18
+Tp=1
+HD=TRUE
+DV=52d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=18
+Name=CTI-P101 Student 1542_rev1.1_03.4 Blu Ray_Blu Ray Transports 2.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
